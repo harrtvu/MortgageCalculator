@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="mortgage_amount_prompt">Mortgage amount (CAD$):</string>
+    <string name="interest_rate_prompt">Interest Rate (%)</string>
+    <string name="amortization_period_prompt">Amortization Period (in years)</string>
+    <string name="loan_button_text">Calculate Payment</string>
+    <string name="monthly_payment_prompt">Monthly payment</string>
+    <string name="total_payment_prompt">Total payment</string>
+</resources>
